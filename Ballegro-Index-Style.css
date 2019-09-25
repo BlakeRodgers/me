@@ -1,0 +1,90 @@
+body {
+  color: #F69158;
+  background-color: #5C7D99;
+  opacity: 0.75;
+}
+
+h1 {
+  color: black;
+}
+
+div {
+  background-color: white;
+  Opacity: 0.70;
+  margin: auto 30px;
+  padding: 10px;
+}
+
+p {
+  color: magenta;
+}
+
+  #yehaw {
+  background-color: black;
+  }
+
+  #Bigyehaw {
+    background-color: yellow;
+  }
+
+  .ss {
+  font-weight: bold;
+  color: red;
+  }
+  header {
+    background-color: yellow;
+  }
+  nav {
+  background-color: pink;
+  }
+
+  main {
+    background-color: gray;
+    border: 2px solid #0000ff;
+    padding: 20px 20px 20px 20px;
+    margin: 10px 10px 10px 10px;
+    margin: 50px;
+    width: 1350px;
+  }
+  footer {
+    background-color: orange;
+  }
+  a:link {
+     color: #00ff00;
+  }
+
+  a:visited {
+     color: #0000ff;
+  }
+
+  a:active {
+     color: #00ffff;
+  }
+
+  a:hover {
+     color: #ffff00;
+  }
+  .customtext {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.fontcombined {
+    font: bold 20px Arial, Helvetica, sans-serif;
+}
+.boxmodel {
+   border: 2px solid #0000ff;
+   padding: 20px 20px 20px 20px;
+   margin: 10px 10px 10px 10px;
+}
+
+/*         TOP  RGHT BOTM LEFT */
+   margin: 10px 10px 10px 10px;
+   .imgbox {
+    border: 2px solid #ff0000;
+    padding: 10px 10px 10px 10px;
+    margin: 20px 20px 20px 20px;
+    background-color: #0000ff;
+}
