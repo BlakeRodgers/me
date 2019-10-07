@@ -1,0 +1,89 @@
+
+header {
+
+}
+  Body {
+  background-image: url("paper.jpg");
+  font-family: Helvetica;
+  border-top: 10px;
+  border-right: 20px;
+  border-bottom: 5px;
+  border-left: 2px;
+  border-radius: 5px;
+}
+main {
+  font-family: Helvetica;
+  text-align: center;
+  border-top: 20px solid #789497;
+  border-bottom: 20px solid #789497;
+  padding-top: 0px;
+
+}
+.joelandethancoen {
+  font-family: Helvetica;
+  padding-top: 0px;
+  margin-top: 0px;
+  font-size: 32px;
+}
+.writtenanddirectedby-underline {
+  font-family: Helvetica;
+  border-bottom: 1px solid black;
+  width: 274px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.starring-underline {
+  font-family: Helvetica;
+  border-bottom: 1px solid #789497;
+  color: #789497;
+  width: 112px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 22px;
+}
+ .bigfont {
+   font-family: Helvetica;
+   font-size: 72px;
+   margin-top: 0px;
+   margin-bottom: 0px;
+
+ }
+.Bluetext {
+  color: #789497;
+  font-family: Helvetica;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  font-size: 32px;
+}
+a {
+  color: #34c0eb;
+  text-decoration: none;
+}
+
+}
+
+
+footer {
+  background-color: #lightblue;
+  font-family: Helvetica;
+margin-top: 0px;
+border-bottom: 10px;
+border-top: 10px;
+border-right: 20px;
+border-bottom: 5px;
+border-left: 2px;
+border-radius: 5px;
+background-color: #789497;
+}
+
+.boxmodel {
+   border: 20px solid #0000ff;
+   padding: 2000px 2000px 2000px 2000px;
+   margin: 10px 10px 10px 10px;
+}
